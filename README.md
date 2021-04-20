@@ -3,7 +3,7 @@
 💱️ Desenvolvido em Flutter
 
 <p align="center">
-  <img src="https://github.com/KelvinLopes/currencyconverter/blob/main/screenshots/Print.png" alt="Print home screen" width="300" height="400"/>
+  <img src="https://github.com/KelvinLopes/currencyconverter/blob/main/screenshot/Print.png" alt="Print home screen" width="300" height="400"/>
 </p>
 
 Se pode converter valores nas moedas: 
@@ -19,6 +19,7 @@ atualizados manualmente em *_lib > app > models > currency_model.dart_*
 ## Testado no sistema
 
  * Elementary OS
+ * Android
 
 🚧️ App em desenvolvimento
 
