@@ -14,9 +14,9 @@ Se pode converter valores nas moedas:
 * Bitcoin
 
 Dependendo da data os valores já podem estar desatualizados e precisarão ser 
-atualizados manualmente em *_lib > app > models > currency_model.dart_*
+atualizados manualmente em _lib > app > models > currency_model.dart_
 
-## Testado no sistema
+## Testado nos sistemas
 
  * Elementary OS
  * Android
