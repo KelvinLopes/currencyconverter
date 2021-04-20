@@ -2,6 +2,10 @@
 
 💱️ Desenvolvido em Flutter
 
+<p align="center">
+  <img src="https://github.com/KelvinLopes/currencyconverter/blob/main/screenshots/Print.png" alt="Print home screen" width="300" height="400"/>
+</p>
+
 Se pode converter valores nas moedas: 
 
 * Real
